@@ -1,3 +1,5 @@
+package GuessGame;
+
 import javax.swing.*;
 
 public class GuessingGame {

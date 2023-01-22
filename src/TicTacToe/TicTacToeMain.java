@@ -7,8 +7,6 @@ public class TicTacToeMain {
     static TicTacToe game = new TicTacToe();
     public static  int count = 0;
     public static void main(String[] args) {
-//        TicTacToe.TicTacToe ticTacToe = new TicTacToe.TicTacToe();
-
 
         game.displayBoard();
 
